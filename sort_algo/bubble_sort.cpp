@@ -1,5 +1,5 @@
 /**
- * selection sort using while loop.
+ * bubble sort using while loop.
  * instead of array one can use vector too.
  */
 
